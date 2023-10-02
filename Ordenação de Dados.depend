@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1693265582 source:g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\listadinencaddupla.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncadDupla.h"
+
+1693265565 g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\listadinencaddupla.h
+
+1694722341 source:g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+	<time.h>
+	<string.h>
+
+1694627087 source:g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+
+1694626585 g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\auxiliar.h
+
+1694722330 source:g:\meu drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+	<time.h>
+	<string.h>
+
+1694626600 g:\meu drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\auxiliar.h
+
+1694781814 source:g:\meu drive\utfpr\4º semestre\pesquisa e ordenação de dados\métodos com lista duplamente encadeada\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+
+1695750815 source:g:\meu drive\utfpr\4º semestre\pesquisa e ordenação de dados\projeto 1 - ordenação de dados\programa para ordenar dados\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+
+1695756264 g:\meu drive\utfpr\4º semestre\pesquisa e ordenação de dados\projeto 1 - ordenação de dados\programa para ordenar dados\auxiliar.h
+
+1695756264 source:g:\meu drive\utfpr\4º semestre\pesquisa e ordenação de dados\projeto 1 - ordenação de dados\programa para ordenar dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+	<time.h>
+	<string.h>
+
+1695756388 source:g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\projeto 1 - ordenação de dados\programa para ordenar dados\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+
+1695756390 g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\projeto 1 - ordenação de dados\programa para ordenar dados\auxiliar.h
+
+1696031343 source:g:\my drive\utfpr\4º semestre\pesquisa e ordenação de dados\projeto 1 - ordenação de dados\programa para ordenar dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Auxiliar.h"
+	<time.h>
+	<string.h>
+
